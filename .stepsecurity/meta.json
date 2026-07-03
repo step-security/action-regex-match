@@ -1,0 +1,18 @@
+{
+   "schema_version": "1",
+   "onboarding_type": "copied",
+   "archived": false,
+   "maintained_action_name": "step-security/action-regex-match",
+   "upstream_full_repo_name": "actions-ecosystem/action-regex-match",
+   "action_type": "node",
+   "last_release": {
+     "tag_name": "v2.0.2",
+     "created_at": "2026-06-15T14:13:54Z",
+     "published_at": "2026-06-15T15:35:10Z"
+   },
+   "sync": {
+     "ignore_presets": [
+       "defaults_v1"
+     ]
+   }
+ }
